@@ -1,0 +1,278 @@
+[
+{
+  "image": "\/data\/upload\/6\/20644e74-Staples_Dataset_1_sideview_right.jpg",
+  "id": 13,
+  "label": [
+    {
+      "x": 17.47706422018352,
+      "y": 30.09174311926589,
+      "width": 62.201834862385354,
+      "height": 39.44954128440348,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 24,
+  "created_at": "2026-09-21T09:13:09.075986Z",
+  "updated_at": "2026-09-21T09:22:13.836943Z",
+  "lead_time": 289.498
+},
+{
+  "image": "\/data\/upload\/6\/5b7c0ec1-Staples_Dataset_2_sideview_front_right.jpg",
+  "id": 14,
+  "label": [
+    {
+      "x": 13.348623853210997,
+      "y": 36.697247706421905,
+      "width": 54.63302752293573,
+      "height": 42.752293577981455,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 23,
+  "created_at": "2026-09-21T09:13:05.393614Z",
+  "updated_at": "2026-09-21T09:33:43.421094Z",
+  "lead_time": 71.561
+},
+{
+  "image": "\/data\/upload\/6\/53f1d48d-Staples_Dataset_3_sideview_back_right.jpg",
+  "id": 15,
+  "label": [
+    {
+      "x": 16.788990825688096,
+      "y": 18.165137614678923,
+      "width": 60.963302752293544,
+      "height": 69.17431192660551,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 22,
+  "created_at": "2026-09-21T09:13:01.372546Z",
+  "updated_at": "2026-09-21T09:34:59.210045Z",
+  "lead_time": 79.374
+},
+{
+  "image": "\/data\/upload\/6\/428d5434-Staples_Dataset_4_front.jpg",
+  "id": 16,
+  "label": [
+    {
+      "x": 42.79816513761471,
+      "y": 26.605504587155938,
+      "width": 22.018348623853075,
+      "height": 57.9816513761466,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 21,
+  "created_at": "2026-09-21T09:12:56.976314Z",
+  "updated_at": "2026-09-21T09:35:34.785036Z",
+  "lead_time": 59.214
+},
+{
+  "image": "\/data\/upload\/6\/2a578270-Staples_Dataset_5_sideview_front_right.jpg",
+  "id": 17,
+  "label": [
+    {
+      "x": 35.77981651376143,
+      "y": 26.97247706422007,
+      "width": 45.550458715596385,
+      "height": 57.981651376146736,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 20,
+  "created_at": "2026-09-21T09:12:52.980972Z",
+  "updated_at": "2026-09-21T09:36:06.035948Z",
+  "lead_time": 57.477999999999994
+},
+{
+  "image": "\/data\/upload\/6\/c9f7af01-Staples_Dataset_6_sideview_front_left.jpg",
+  "id": 18,
+  "label": [
+    {
+      "x": 33.544700553286475,
+      "y": 27.77597773888812,
+      "width": 51.31993432589215,
+      "height": 55.60293368805215,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 19,
+  "created_at": "2026-09-21T09:12:47.317390Z",
+  "updated_at": "2026-09-21T09:36:32.478381Z",
+  "lead_time": 347.56399999999996
+},
+{
+  "image": "\/data\/upload\/6\/65ceb08e-Staples_Dataset_7_sideview.jpg",
+  "id": 19,
+  "label": [
+    {
+      "x": 23.256880733944914,
+      "y": 28.440366972476994,
+      "width": 65.3669724770642,
+      "height": 43.119266055045706,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 18,
+  "created_at": "2026-09-21T09:12:43.199359Z",
+  "updated_at": "2026-09-21T09:36:57.986110Z",
+  "lead_time": 59.146
+},
+{
+  "image": "\/data\/upload\/6\/7ac3743f-Staples_Dataset_8_sideview_open.jpg",
+  "id": 20,
+  "label": [
+    {
+      "x": 12.935779816513747,
+      "y": 24.770642201834853,
+      "width": 76.78899082568802,
+      "height": 46.42201834862384,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 17,
+  "created_at": "2026-09-21T09:12:39.048084Z",
+  "updated_at": "2026-09-21T09:37:20.656844Z",
+  "lead_time": 53.979
+},
+{
+  "image": "\/data\/upload\/6\/f096535c-Staples_Dataset_9_sideview_top.jpg",
+  "id": 21,
+  "label": [
+    {
+      "x": 4.678899082568805,
+      "y": 25.871559633027413,
+      "width": 88.4862385321101,
+      "height": 40.366972477064145,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 16,
+  "created_at": "2026-09-21T09:12:32.131200Z",
+  "updated_at": "2026-09-21T09:37:45.245939Z",
+  "lead_time": 49.504000000000005
+},
+{
+  "image": "\/data\/upload\/6\/47b8b3e4-Staples_Dataset_10_sideview_top.jpg",
+  "id": 22,
+  "label": [
+    {
+      "x": 0,
+      "y": 20.733944954128447,
+      "width": 91.3761467889908,
+      "height": 58.34862385321101,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 15,
+  "created_at": "2026-09-21T09:12:28.252422Z",
+  "updated_at": "2026-09-21T09:38:05.212503Z",
+  "lead_time": 52.293000000000006
+},
+{
+  "image": "\/data\/upload\/6\/2d8d9d70-Staples_Dataset_11_sideview-topload.jpg",
+  "id": 23,
+  "label": [
+    {
+      "x": 18.302752293577957,
+      "y": 8.440366972477063,
+      "width": 66.46788990825681,
+      "height": 85.87155963302747,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 14,
+  "created_at": "2026-09-21T09:12:24.245847Z",
+  "updated_at": "2026-09-21T09:38:28.599562Z",
+  "lead_time": 51.13
+},
+{
+  "image": "\/data\/upload\/6\/57b0af8a-Staples_Dataset_12_topview_peripherals.jpg",
+  "id": 24,
+  "label": [
+    {
+      "x": 35.091743119266035,
+      "y": 44.40366972477063,
+      "width": 19.678899082568773,
+      "height": 13.944954128440365,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Stapler"
+      ],
+      "original_width": 4160,
+      "original_height": 3120
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 13,
+  "created_at": "2026-09-21T09:12:15.598734Z",
+  "updated_at": "2026-09-21T09:27:18.063516Z",
+  "lead_time": 37.393
+}
+]
