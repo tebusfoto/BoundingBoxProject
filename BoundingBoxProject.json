@@ -1,0 +1,107 @@
+[
+{
+  "image": "\/data\/upload\/7\/323fb8be-Parasailing_3.jpg",
+  "id": 2,
+  "label": [
+    {
+      "x": 33.003194065220754,
+      "y": 26.150121065375302,
+      "width": 31.071299778476064,
+      "height": 36.31961259079909,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Parachute"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2,
+  "created_at": "2026-09-20T14:22:06.609616Z",
+  "updated_at": "2026-09-20T14:22:06.609616Z",
+  "lead_time": 28.978
+},
+{
+  "image": "\/data\/upload\/7\/2b01b67d-Parasailing_1.jpg",
+  "id": 3,
+  "label": [
+    {
+      "x": 42.6626654989439,
+      "y": 68.76513317191282,
+      "width": 13.36226881665035,
+      "height": 12.590799031477019,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Sunset"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    },
+    {
+      "x": 58.11781979290094,
+      "y": 39.95157384987893,
+      "width": 18.83596929576013,
+      "height": 20.823244552058114,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Parachute"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    },
+    {
+      "x": 76.79279789809902,
+      "y": 62.227602905569015,
+      "width": 22.216784297563237,
+      "height": 22.518159806295387,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Ship"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 4,
+  "created_at": "2026-09-20T14:23:53.047261Z",
+  "updated_at": "2026-09-20T14:23:53.047261Z",
+  "lead_time": 59.909
+},
+{
+  "image": "\/data\/upload\/7\/0b8509b7-Parasailing_2.jpg",
+  "id": 4,
+  "label": [
+    {
+      "x": 54.737004791097846,
+      "y": 19.128329297820805,
+      "width": 38.47689454433044,
+      "height": 39.22518159806296,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Parachute"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    },
+    {
+      "x": 57.95682860233888,
+      "y": 84.26150121065376,
+      "width": 12.879295244964204,
+      "height": 15.012106537530258,
+      "rotation": 0,
+      "rectanglelabels": [
+        "Ship"
+      ],
+      "original_width": 3008,
+      "original_height": 2000
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 3,
+  "created_at": "2026-09-20T14:22:49.943152Z",
+  "updated_at": "2026-09-20T14:22:49.943152Z",
+  "lead_time": 118.37400000000001
+}
+]
